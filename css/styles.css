@@ -1,8 +1,8 @@
-#def1 {
+div [id^="def"] {
   display: none;
 }
 
-#def2 {
+/*#def2 {
   display: none;
 }
 
@@ -72,4 +72,4 @@
 
 #def19 {
   display: none;
-}
+}*/
